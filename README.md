@@ -1,6 +1,6 @@
 #Calender
 
-format uang dan tanggal indonesia
+Format uang dan tanggal indonesia
 
 ##Install
 
