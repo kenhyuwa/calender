@@ -1,0 +1,21 @@
+{
+    "name": "ken/calender",
+    "description": "Calender Indonesia",
+    "type": "packages",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ken",
+            "email": "wahyu.dhiraashandy8@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "~5.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "Ken\\Calender\\": "src"
+      }
+    }
+}
